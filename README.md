@@ -1,8 +1,7 @@
 
 
 -----------------------------------------------
-# 🎨 Socratic Tales (formerly WonderSketch)
-
+# 🎨 Socratic Tales
 > **Turning children's doodles into personalized journeys of discovery using the Gemini 2.5 ecosystem.**
 
 [![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Gemini%202.5%20Pro-4285F4?style=for-the-badge&logo=google)](https://ai.google.dev/)
