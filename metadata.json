@@ -1,0 +1,7 @@
+{
+  "name": "Socratic Tales",
+  "description": "Transforms your child's drawing and question into a magical, scientific audio adventure.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
