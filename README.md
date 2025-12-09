@@ -1,9 +1,12 @@
-
+---------------
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
 -----------------------------------------------
 # 🎨 Socratic Tales
-> **Turning children's doodles into personalized journeys of discovery using the Gemini 2.5 ecosystem.**
-
+> **Turning children's doodles into personalized journeys of discovery using the Gemini 2.5 ecosystem.** <br>
+[![Kaggle Competition](https://img.shields.io/badge/Kaggle-Gemini%203%20Competition-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/competitions/gemini-3)
 [![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Gemini%202.5%20Pro-4285F4?style=for-the-badge&logo=google)](https://ai.google.dev/)
 [![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
@@ -86,25 +89,19 @@ npm run dev
 
 
 -------------
+## 🏆 About the Competition
+This project was developed as a submission for the Google DeepMind - Vibe Code with Gemini 3 Pro in AI Studio on Kaggle.
+
+Socratic Tales demonstrates the potential of the Gemini ecosystem to reinvent personalized education by blending:
+- Long Context Reasoning: To maintain character consistency across sessions.
+- Native Multimodality: To bridge the gap between physical creativity (paper) and digital interactivity.
+
+------
+
+## 📄 License
+This project is licensed under the Apache 2.0 License.
 
 
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1xSnkc0RdqHIMDG1mIylNBJV_Da2lhm5X
-
-## Run Locally
-
-**Prerequisites:**  Node.js
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
